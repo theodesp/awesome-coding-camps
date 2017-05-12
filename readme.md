@@ -11,7 +11,7 @@
 
 ## Free
 
-This list aims to be a curated set of free high quality educational resources to learn how to program. 
+This list aims to be a curated set of free high quality educational resources to learn how to program.
 
 - [Codeacademy](http://www.codecademy.com/) - Free platform for online learning to code in web technologies.
 - [Free Code Camp](http://www.freecodecamp.com/) - The king of free coding camps. Learn to code and help nonprofits. Extensive curriculum.
@@ -61,7 +61,7 @@ This list aims to be a curated set of free high quality educational resources to
 - [ProgrammingHub](http://programminghub.io/) - Online tutorials on various Programming Languages.
 - [Openclassrooms](https://openclassrooms.com/) - Online classes in Web development.
 - [Stanford Engineering Everywhere](https://see.stanford.edu/Course) - Online Courses from Stanford Uni.
-
+- [Simple Tutorials](https://simpletutorials.com/Home/Index) - Online tutorials in Javascript.
 
 ## Paid
 
