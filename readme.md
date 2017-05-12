@@ -94,7 +94,9 @@ the cost of each program is highlighted below each item.
 - [Makers Academy](http://www.makersacademy.com/) - Europe's Web Developer bootcamp. Prices start from **£4,000 per course**.
 - [SkillCrush](https://skillcrush.com/) - Online coding School. Prices start from **$400 per course**.
 - [Viging Code School](https://www.vikingcodeschool.com/) - Software Engineering bootcamp. Prices start from **$11800 per course**.
-
+- [jsComplete](https://jscomplete.com) - Interactive Tutorials and Workshops that are targeted towards Javascript Development. Prices start from **$120 per course**.
+- [PluralSight](https://www.pluralsight.com/) - Online technology learning platform. Prices start from **$29 per month**.
+- [Lynda](https://www.lynda.com/) - Learn new Skills online. Prices start from **$14.5 per month**.
 
 ## Contribute
 
