@@ -44,21 +44,56 @@ This list aims to be a curated set of free high quality educational resources to
 - [Learn X in Y minites](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 - [Become A Programmer MTF](http://programming-motherfucker.com/become.html#Git) - If you don't know how to code, then you can learn even if you think you can't.
 - [Git On Demand](https://services.github.com/on-demand/) - On demand training from github.
+- [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login) - Problems and Contests.
+- [Smarterer](http://smarterer.com/tests) - Online tests in Software Engineering.
+- [Screeps](https://screeps.com/) - MMO strategy sandbox game for programmers.
+- [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
+- [Codehunt](https://www.codehunt.com/) - Online problem sets with a bit of an interactive twist.
+- [Checkio](https://checkio.org/) - Coding skills through competitive playing.
+- [CodeFights](https://codefights.com/) - Practice your coding skills with online problems.
+- [Project Euler](https://projecteuler.net/) - A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+- [Coding Bat](http://codingbat.com/java) - Practice Java or Python online.
+- [Exersism](http://exercism.io/) - Do programming exercises and get your code reviewed.
+- [gibbon](https://gibbon.co/topics/programming) - Host links for many programming resources.
+- [htmlDog](http://www.htmldog.com/) - Html tutorials and stuff.
+- [Learn to code HTML & CSS](http://learn.shayhowe.com/) - Online book Learn to Code HTML & CSS .
+- [Launchcode](https://www.launchcode.org/) - Bootcamp, apprenticeships and help from mentors.
+- [ProgrammingHub](http://programminghub.io/) - Online tutorials on various Programming Languages.
+- [Openclassrooms](https://openclassrooms.com/) - Online classes in Web development.
+- [Stanford Engineering Everywhere](https://see.stanford.edu/Course) - Online Courses from Stanford Uni.
+
 
 ## Paid
 
 This list aims to be a curated set of paid high quality educational resources to learn how to program. If available
 the cost of each program is highlighted below each item.
 
+- [Code Institute](https://www.codeinstitute.net/) - Full stack Web developent Accredited bootcamp.
 - [Vertabelo Academy](https://academy.vertabelo.com/) - Focuses on SQL. Has some free plans. Prices start from **$19 per course**.
 - [General Assembly](https://generalassemb.ly/) - Focuses on HTML, CSS, Javascript. Prices start from **$1,250 per course or £25 per event**
 - [Get Good At](https://getgood.at/) - Focuses on Ruby and Javascript. Prices start from **$25 per month**.
 - [LaunchSchool](https://launchschool.com/) - An online School for full stack development. Prices start from **$199 per month**.
 - [Treehouse](https://teamtreehouse.com/) - Online courses and workshops in Software Engineering. Prices start from **$25 for basic or $49 for pro plan per month**.
 - [Udacity](https://www.udacity.com/) - Online courses and nanodegrees.
-- [HackerYou](http://hackeryou.com/) - Hands-on, project-based learning bootcamp. Prices start from **$1,400 per course.**
+- [HackerYou](http://hackeryou.com/) - Hands-on, project-based learning bootcamp. Prices start from **$1,400 per course**.
 - [Educative](https://www.educative.io/) - Interactive Courses for Software Developers. Prices start from **$29 per course**.
-- [Hackages](https://www.hackages.io/) - Hackcamps, uplifting and hackday programs. Prices start from **$800 per event.**
+- [Hackages](https://www.hackages.io/) - Hackcamps, uplifting and hackday programs. Prices start from **$800 per event**.
+- [Code Avengers](https://www.codeavengers.com/) - Learn online by doing Courses and Codecamps. Prices start from **$29 per month**.
+- [The Cave of Programming](https://caveofprogramming.com/) - Online Courses on programming. Prices start from **$29 per month**.
+- [ThinkFul](https://www.thinkful.com/) - Online coding bootcamp with 1-on-1 mentorship. Prices start from **$300 per month**.
+- [HackHands](https://hackhands.com/) - Online service for mentorship, problem solving and pair programming.
+- [ACADGILD](https://acadgild.com/) - Learn the Latest Technologies from Experts with 24x7 Coding Support. Prices start from **$600-750 per course**.
+- [Career Foundry](https://careerfoundry.com/en/) - Online mentored courses. Prices start from **$1,680 per course**.
+- [Coder Camps](https://www.codercamps.com/) - Become a web developer in 12 weeks. Prices start from **$9,900 per course**.
+- [Code Union](http://codeunion.io/) - Become a Developer Without Putting Your Life on Hold. Prices start from **$1500-3000 per 8 week course**.
+- [V School](http://vschool.io/en/) - Online Bootcamp. Prices start from **$7000 per course**.
+- [Coding Dojo](http://www.codingdojo.com/) - Full stack web developmet Bootcamp.  Prices start from **$1500 a month**.
+- [Firehose](http://www.thefirehoseproject.com/?home=true) - Has part or full-time programs combining expert 1-on-1 mentorship, and a customized curriculum. Prices start from **$900-1000 a month**.
+- [Hack Reactor](http://www.hackreactor.com/remote-beta/) - Bootcamp. Prices start from **$17780 per course**.
+- [RefactorU](http://www.refactoru.com/) - Bootcamp with online options. Prices start from **$250-850 per month**.
+- [Makers Academy](http://www.makersacademy.com/) - Europe's Web Developer bootcamp. Prices start from **£4,000 per course**.
+- [SkillCrush](https://skillcrush.com/) - Online coding School. Prices start from **$400 per course**.
+- [Viging Code School](https://www.vikingcodeschool.com/) - Software Engineering bootcamp. Prices start from **$11800 per course**.
 
 
 ## Contribute
