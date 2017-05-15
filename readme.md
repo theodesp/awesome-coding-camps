@@ -63,6 +63,11 @@ This list aims to be a curated set of free high quality educational resources to
 - [Stanford Engineering Everywhere](https://see.stanford.edu/Course) - Online Courses from Stanford Uni.
 - [Simple Tutorials](https://simpletutorials.com/Home/Index) - Online tutorials in Javascript.
 - [Leet Code](https://leetcode.com/) - A platform for preparing technical coding interviews.
+- [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - Play a game and learn Ruby.
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) - Play a game and learn Javascript.
+- [Vim Adventures](https://vim-adventures.com/) - Play a game and learn Vim.
+- [Elevator Saga](http://play.elevatorsaga.com/) - Learn Javascript inside and elevator.
+- [Advent of Code](http://adventofcode.com/) - Practice challenging Problems.
 
 ## Paid
 
