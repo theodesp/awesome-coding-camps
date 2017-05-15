@@ -62,6 +62,7 @@ This list aims to be a curated set of free high quality educational resources to
 - [Openclassrooms](https://openclassrooms.com/) - Online classes in Web development.
 - [Stanford Engineering Everywhere](https://see.stanford.edu/Course) - Online Courses from Stanford Uni.
 - [Simple Tutorials](https://simpletutorials.com/Home/Index) - Online tutorials in Javascript.
+- [Leet Code](https://leetcode.com/) - A platform for preparing technical coding interviews.
 
 ## Paid
 
