@@ -68,6 +68,8 @@ This list aims to be a curated set of free high quality educational resources to
 - [Vim Adventures](https://vim-adventures.com/) - Play a game and learn Vim.
 - [Elevator Saga](http://play.elevatorsaga.com/) - Learn Javascript inside and elevator.
 - [Advent of Code](http://adventofcode.com/) - Practice challenging Problems.
+- [Programiz](https://www.programiz.com/) - Simple online tutorials for beginners.
+- [Briliant.org](https://brilliant.org/) - Learn Science online with smart quizzes. Awesome!
 
 ## Paid
 
@@ -103,6 +105,7 @@ the cost of each program is highlighted below each item.
 - [jsComplete](https://jscomplete.com) - Interactive Tutorials and Workshops that are targeted towards Javascript Development. Prices start from **$120 per course**.
 - [PluralSight](https://www.pluralsight.com/) - Online technology learning platform. Prices start from **$29 per month**.
 - [Lynda](https://www.lynda.com/) - Learn new Skills online. Prices start from **$14.5 per month**.
+- [Lambda School](https://lambdaschool.com/) - Online Bootcamp. Prices start from **$4500 per course**
 
 ## Contribute
 
