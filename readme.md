@@ -105,7 +105,8 @@ the cost of each program is highlighted below each item.
 - [jsComplete](https://jscomplete.com) - Interactive Tutorials and Workshops that are targeted towards Javascript Development. Prices start from **$120 per course**.
 - [PluralSight](https://www.pluralsight.com/) - Online technology learning platform. Prices start from **$29 per month**.
 - [Lynda](https://www.lynda.com/) - Learn new Skills online. Prices start from **$14.5 per month**.
-- [Lambda School](https://lambdaschool.com/) - Online Bootcamp. Prices start from **$4500 per course**
+- [Lambda School](https://lambdaschool.com/) - Online Bootcamp. Prices start from **$4500 per course**.
+- [Shaw Academy](https://www.shawacademy.com/) - Online Webinars and Courses. Prices start from  **€49.95 per month**.
 
 ## Contribute
 
