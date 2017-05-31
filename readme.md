@@ -7,6 +7,7 @@
 
 - [Free](#Free)
 - [Paid](#Paid)
+- [Other](#Other)
 
 
 ## Free
@@ -107,6 +108,14 @@ the cost of each program is highlighted below each item.
 - [Lynda](https://www.lynda.com/) - Learn new Skills online. Prices start from **$14.5 per month**.
 - [Lambda School](https://lambdaschool.com/) - Online Bootcamp. Prices start from **$4500 per course**.
 - [Shaw Academy](https://www.shawacademy.com/) - Online Webinars and Courses. Prices start from  **€49.95 per month**.
+- [Code Fellows](https://www.codefellows.org/) - Seattle Based Bootcamp. Prices start from  **$99 per course**.
+- [The Iron Yard](https://www.theironyard.com/) - Traditional Bootcamp with online or in-campus course. Prices start from **$900 per course**.
+
+## Other
+Sites that act as metasearches of bootcamps.
+
+- [Switchup](https://www.switchup.org/) - Search engine for Bootcamps.
+- [Course Report](https://www.coursereport.com/) - Search engine for Bootcamps.
 
 ## Contribute
 
