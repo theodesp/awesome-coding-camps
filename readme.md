@@ -71,6 +71,9 @@ This list aims to be a curated set of free high quality educational resources to
 - [Advent of Code](http://adventofcode.com/) - Practice challenging Problems.
 - [Programiz](https://www.programiz.com/) - Simple online tutorials for beginners.
 - [Briliant.org](https://brilliant.org/) - Learn Science online with smart quizzes. Awesome!
+- [Programming By Doing](http://programmingbydoing.com/) - Programming Exercises.
+- [Code Abbey](http://www.codeabbey.com/) - Online Problems
+- [Teach Yourself CS](https://teachyourselfcs.com/) - Online Resource materials for learning CS
 
 ## Paid
 
