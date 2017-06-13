@@ -74,6 +74,12 @@ This list aims to be a curated set of free high quality educational resources to
 - [Programming By Doing](http://programmingbydoing.com/) - Programming Exercises.
 - [Code Abbey](http://www.codeabbey.com/) - Online Problems
 - [Teach Yourself CS](https://teachyourselfcs.com/) - Online Resource materials for learning CS
+- [programcreel](http://www.programcreek.com/) - Online tutorials and problems
+- [javahonk](http://javahonk.com/) - Things about java
+- [visualgo](https://visualgo.net/en) - Visualize algorithms
+- [hired in tech](https://www.hiredintech.com/app) - Train online
+- [Techinterview](https://www.techinterview.org/) - Tech interview questions
+- [Prismoskills](http://prismoskills.appspot.com/) - Articles about programming
 
 ## Paid
 
