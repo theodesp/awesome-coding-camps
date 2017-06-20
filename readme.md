@@ -80,6 +80,14 @@ This list aims to be a curated set of free high quality educational resources to
 - [hired in tech](https://www.hiredintech.com/app) - Train online
 - [Techinterview](https://www.techinterview.org/) - Tech interview questions
 - [Prismoskills](http://prismoskills.appspot.com/) - Articles about programming
+- [Enlight](https://enlight.ml/) - Learn to code by making projects.
+- [Code Daily](https://codedaily.io/) - Daily coding articles.
+- [Mongodb Uni](https://university.mongodb.com/?_ga=2.118116810.2111578877.1497975639-880506037.1497975639) - Mongodb University
+- [airpair](https://www.airpair.com/) - Online technical articles and free programming resources.
+- [Postgresql Exercises](https://pgexercises.com/) - Excercises for PostgreSQL.
+- [Learn git branching](http://learngitbranching.js.org/) - Learn Git Branching.
+- [Flexbox Defence](http://www.flexboxdefense.com/) - Learn Flexbox by playing a game.
+- [Regex Crossword](https://regexcrossword.com/) - Learn Regex by solving Crosswords.
 
 ## Paid
 
@@ -119,6 +127,7 @@ the cost of each program is highlighted below each item.
 - [Shaw Academy](https://www.shawacademy.com/) - Online Webinars and Courses. Prices start from  **€49.95 per month**.
 - [Code Fellows](https://www.codefellows.org/) - Seattle Based Bootcamp. Prices start from  **$99 per course**.
 - [The Iron Yard](https://www.theironyard.com/) - Traditional Bootcamp with online or in-campus course. Prices start from **$900 per course**.
+- [Rithm School](https://www.rithmschool.com/) - Coding Camp that offers free and paind courses. Prices start from  **$99 per course**.
 
 ## Other
 Sites that act as metasearches of bootcamps.
