@@ -88,6 +88,9 @@ This list aims to be a curated set of free high quality educational resources to
 - [Learn git branching](http://learngitbranching.js.org/) - Learn Git Branching.
 - [Flexbox Defence](http://www.flexboxdefense.com/) - Learn Flexbox by playing a game.
 - [Regex Crossword](https://regexcrossword.com/) - Learn Regex by solving Crosswords.
+- [shayhowe](http://learn.shayhowe.com/) - Learn HTML + CSS online.
+- [gitimmersion](http://gitimmersion.com/) - Practical git online.
+- [Hackr](https://hackr.io/) - Online search engine for tutorials.
 
 ## Paid
 
@@ -128,6 +131,8 @@ the cost of each program is highlighted below each item.
 - [Code Fellows](https://www.codefellows.org/) - Seattle Based Bootcamp. Prices start from  **$99 per course**.
 - [The Iron Yard](https://www.theironyard.com/) - Traditional Bootcamp with online or in-campus course. Prices start from **$900 per course**.
 - [Rithm School](https://www.rithmschool.com/) - Coding Camp that offers free and paind courses. Prices start from  **$99 per course**.
+- [Thinkster](https://thinkster.io/) - In-depth online courses on web development. Prices start from **$29 per month**.
+- [Learn Code the hard way](https://learncodethehardway.org/) - Some free some paid books with video tutorials. Prices start from **$29 per book**.
 
 ## Other
 Sites that act as metasearches of bootcamps.
