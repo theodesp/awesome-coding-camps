@@ -91,6 +91,7 @@ This list aims to be a curated set of free high quality educational resources to
 - [shayhowe](http://learn.shayhowe.com/) - Learn HTML + CSS online.
 - [gitimmersion](http://gitimmersion.com/) - Practical git online.
 - [Hackr](https://hackr.io/) - Online search engine for tutorials.
+- [Coderbyte](coderbyte.com) - Online course materials and exercises.
 
 ## Paid
 
