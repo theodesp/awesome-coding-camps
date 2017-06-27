@@ -99,6 +99,18 @@ This list aims to be a curated set of free high quality educational resources to
 - [Rust By Example](https://rustbyexample.com/index.html) - Learn Rust.
 - [GoBootcamp Book](https://github.com/GoBootcamp/book) - Book about Go.
 - [Elixir School](http://elixirschool.com/) - Learn Elixir.
+- [Linux Journey](https://linuxjourney.com/) - Tutorials about Linux.
+- [Learn.js](Learn-JS.org) - Learn interactive programming languages.
+- [Eloquent Javascript](http://eloquentjavascript.net/) - Free book about Javascript.
+- [A byte of Python](https://python.swaroopch.com/) - Free book about Python.
+- [A hitchhikers Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - Free book about Python.
+- [Python Spot](https://pythonspot.com/en/) - Free Python tutorials.
+- [purelyfunctional](https://purelyfunctional.tv/) - Resources about Clojure.
+- [Os Dev](http://wiki.osdev.org/Main_Page) - Learn to develop Operating Systems.
+- [A little boo about OS](https://littleosbook.github.io/) - Free book on Operating Systems.
+- [Javascript Tutor](http://pythontutor.com/javascript.html#mode=edit) - Algorithm Visualizer.
+- [Rails tutorial](https://www.railstutorial.org/book) - Free book about RoR.
+- [Introducing Go](https://www.golang-book.com/) - Free books about Go.
 
 ## Paid
 
@@ -142,6 +154,7 @@ the cost of each program is highlighted below each item.
 - [Thinkster](https://thinkster.io/) - In-depth online courses on web development. Prices start from **$29 per month**.
 - [Learn Code the hard way](https://learncodethehardway.org/) - Some free some paid books with video tutorials. Prices start from **$29 per book**.
 - [CloudAccademy](https://cloudacademy.com/) - Online courses for Cloud Computing.
+- [Scotch](https://scotch.io/) - Free and paid Online courses and tutorials.Prices start from **$20 per month**.
 
 ## Other
 Sites that act as metasearches of bootcamps.
