@@ -92,6 +92,13 @@ This list aims to be a curated set of free high quality educational resources to
 - [gitimmersion](http://gitimmersion.com/) - Practical git online.
 - [Hackr](https://hackr.io/) - Online search engine for tutorials.
 - [Coderbyte](https://coderbyte.com/) - Online course materials and interview prep.
+- [Katacoda](https://www.katacoda.com/) - Interactive courses in the browser.
+- [React Express](http://www.react.express/) - Learn React.
+- [Scala School](http://twitter.github.io/scala_school/) - Learn Scala.
+- [Top Coder](https://www.topcoder.com/community/data-science/data-science-tutorials/) - Top Coder Computer Science Resources.
+- [Rust By Example](https://rustbyexample.com/index.html) - Learn Rust.
+- [GoBootcamp Book](https://github.com/GoBootcamp/book) - Book about Go.
+- [Elixir School](http://elixirschool.com/) - Learn Elixir.
 
 ## Paid
 
@@ -134,6 +141,7 @@ the cost of each program is highlighted below each item.
 - [Rithm School](https://www.rithmschool.com/) - Coding Camp that offers free and paind courses. Prices start from  **$99 per course**.
 - [Thinkster](https://thinkster.io/) - In-depth online courses on web development. Prices start from **$29 per month**.
 - [Learn Code the hard way](https://learncodethehardway.org/) - Some free some paid books with video tutorials. Prices start from **$29 per book**.
+- [CloudAccademy](https://cloudacademy.com/) - Online courses for Cloud Computing.
 
 ## Other
 Sites that act as metasearches of bootcamps.
