@@ -16,6 +16,7 @@ This list aims to be a curated set of free high quality educational resources to
 
 - [Codeacademy](http://www.codecademy.com/) - Free platform for online learning to code in web technologies.
 - [Free Code Camp](http://www.freecodecamp.com/) - The king of free coding camps. Learn to code and help nonprofits. Extensive curriculum.
+- [Tech.io](https://tech.io/) - Knowledge Sharing Platform for developers.
 - [Codewars](https://www.codewars.com/) - Train on coding and earn ranks and honor.
 - [Khan Academy](https://www.khanacademy.org/) - Learn anything for free, forever.
 - [Odin Project](https://www.theodinproject.com/) - Learn Full stack development with Ruby.
@@ -111,6 +112,37 @@ This list aims to be a curated set of free high quality educational resources to
 - [Javascript Tutor](http://pythontutor.com/javascript.html#mode=edit) - Algorithm Visualizer.
 - [Rails tutorial](https://www.railstutorial.org/book) - Free book about RoR.
 - [Introducing Go](https://www.golang-book.com/) - Free books about Go.
+- [Google Tech Dive](https://techdevguide.withgoogle.com/) - A carefully curated a collection of Computer Science Materials
+- [Full Stack Python](https://www.fullstackpython.com/) - Full stack Python book.
+- [Coding Pill](http://www.codingpill.com/) - Coding Interviews.
+- [Node Bots](http://nodebots.io/) - Learn to program bots.
+- [Algorithms Javascript](http://js-algorithms.tutorialhorizon.com/) - Learn Algorithms In Javascript.
+- [Pramp](https://www.pramp.com/#/) - Practice Coding Interviews.
+- [Program Creek](https://www.programcreek.com/) - Algorithms And Data Structures.
+- [Bootloader Tutorial](https://www.apriorit.com/dev-blog/66-develop-boot-loader) - Develop your own Bootloader.
+- [Cybrary](https://www.cybrary.it/) - Free and Open Source Cyber Security Learning.
+- [Learn Anything](https://learn-anything.xyz/) - Search Engine for tutorials.
+- [TDD Courses](http://testdriven.io/) - Test driven Development Tutorial.
+- [Open Source Guide](https://opensource.guide/) - Learn how to open source.
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Git Tutorials from Atlassian.
+- [CS Notes Sparknotes](http://www.sparknotes.com/cs/) - Computer Science Notes.
+- [C4Learn](http://www.c4learn.com/) - CS, Algorithms And Data Structures.
+- [Github Guides](https://guides.github.com/) - Git guides from Github.
+- [Malcoded](https://malcoded.com/blog) - Guides about Angular.
+- [Crafting Interpreters](http://www.craftinginterpreters.com/) - Learn how to craft interpreters.
+- [Go Programs](http://www.golangprograms.com/) - Tutorials about Go.
+- [Ip tables tutorial](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html) -  Learn about Ip Tables.
+- [Write your own OS](http://mikeos.sourceforge.net/write-your-own-os.html) - Write your own OS.
+- [F# For fun and profit](http://fsharpforfunandprofit.com/) - Learn F#.
+- [Try F#](http://www.tryfsharp.org/) - Try F#.
+- [F# Snippets](http://www.fssnip.net/) - F# Snippets.
+- [F# Guides](https://docs.microsoft.com/en-us/dotnet/fsharp/) - Official Guide for F#.
+- [Real world OCaml](https://realworldocaml.org/) - Learn OCaml book.
+- [Programmers Gate](http://programmergate.com/) - A gate for java best practices and techniques.
+- [Python Patterns, Idioms, Recipes](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html) - Python Book.
+- [React Armory](https://reactarmory.com/) - Learn React tutorials.
+- [Gameblox](https://gameblox.org/) - Make games using Gameblox.
+- [TCP/IP guide](http://www.tcpipguide.com/free/index.htm) - TCP guide.
 
 ## Paid
 
@@ -155,6 +187,10 @@ the cost of each program is highlighted below each item.
 - [Learn Code the hard way](https://learncodethehardway.org/) - Some free some paid books with video tutorials. Prices start from **$29 per book**.
 - [CloudAccademy](https://cloudacademy.com/) - Online courses for Cloud Computing.
 - [Scotch](https://scotch.io/) - Free and paid Online courses and tutorials.Prices start from **$20 per month**.
+- [Flatiron School](https://flatironschool.com/) - Coding Bootcamp. Offers free and paid courses.
+- [Galvanize](https://www.galvanize.com/austin) - Traditional Coding Bootcamp. Prices start from  **$1499 per course**.
+- [Zenva](https://academy.zenva.com/) - Learn to create games, apps and websites. Prices start from  **$49 per course**.
+
 
 ## Other
 Sites that act as metasearches of bootcamps.
