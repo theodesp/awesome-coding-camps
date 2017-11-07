@@ -16,6 +16,7 @@ This list aims to be a curated set of free high quality educational resources to
 
 - [Codeacademy](http://www.codecademy.com/) - Free platform for online learning to code in web technologies.
 - [Free Code Camp](http://www.freecodecamp.com/) - The king of free coding camps. Learn to code and help nonprofits. Extensive curriculum.
+- [Free Code Camp Guide](https://guide.freecodecamp.org/) - Free guides for almost everything CS related.
 - [Tech.io](https://tech.io/) - Knowledge Sharing Platform for developers.
 - [Codewars](https://www.codewars.com/) - Train on coding and earn ranks and honor.
 - [Khan Academy](https://www.khanacademy.org/) - Learn anything for free, forever.
@@ -143,6 +144,30 @@ This list aims to be a curated set of free high quality educational resources to
 - [React Armory](https://reactarmory.com/) - Learn React tutorials.
 - [Gameblox](https://gameblox.org/) - Make games using Gameblox.
 - [TCP/IP guide](http://www.tcpipguide.com/free/index.htm) - TCP guide.
+- [BeeHyve.io](https://www.beehyve.io/) - Learn Web development. CV help.
+- [Art of problem solving](https://artofproblemsolving.com/) - Online School. Community support.
+- [Google IO Codelabs](https://codelabs.developers.google.com/io2017?cat=Web) - Online codelabs.
+- [Make School](https://www.makeschool.com/) - Online coding school.
+- [Deep Learning for Coders](http://course.fast.ai/index.html) - 30 Hours Deep learning course.
+- [Qualified.io](https://www.qualified.io/) - Take free interview quizes.
+- [Deep Reinforcement Learning Tutorial](http://karpathy.github.io/2016/05/31/rl/) - Tutorial for Deep Reinforcement learning
+- [Scala Exercises](https://www.scala-exercises.org/) - Tutorials for Scala.
+- [Javascript.info](https://javascript.info/) - Book about Javascript.
+- [Aligator.io](https://alligator.io/) - Front end Development tutorials.
+- [Triplebyte Interview Tips](https://quip.com/q41AA3OmoZbC) - Tips for technical iterviews.
+- [Minimal x86 Kernel in Rust](https://os.phil-opp.com/multiboot-kernel/) - Learn write an OS Kernel in Rust.
+- [Professor Beekums](https://professorbeekums.com/) - Online Web Development tutorials from a Professor.
+- [Scrimba](https://scrimba.com/) - Interactive Coding Tutorials.
+- [XeusHack](https://xeushack.com/) - Hacking Tutorials.
+- [AI Playbook](http://aiplaybook.a16z.com/) - Learn AI book.
+- [AI 2E](http://artint.info/index.html) - AI Book.
+- [Le Wagon](https://www.lewagon.com/) - Traditional Coding Camp.
+- [Pramp](https://www.pramp.com/#/) - Coding Interview Prep.
+- [Gainlo](http://www.gainlo.co/#!/) - Mock Interview prep for Pros.
+- [Triplebyte](https://triplebyte.com/) - Engineering Quizes.
+- [Containet Tutorials](http://containertutorials.com/index.html) - Docker Container Tutorials.
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - Tutorials about Algorithms.
+
 
 ## Paid
 
@@ -190,7 +215,8 @@ the cost of each program is highlighted below each item.
 - [Flatiron School](https://flatironschool.com/) - Coding Bootcamp. Offers free and paid courses.
 - [Galvanize](https://www.galvanize.com/austin) - Traditional Coding Bootcamp. Prices start from  **$1499 per course**.
 - [Zenva](https://academy.zenva.com/) - Learn to create games, apps and websites. Prices start from  **$49 per course**.
-
+- [Hackbright Accademy](https://hackbrightacademy.com/) - Bootcamp for women. Prices start from **$17000 per program**.
+- [Turing School](https://www.turing.io/) - Traditional Bootcamp. Prices start from **$20000 per program**.
 
 ## Other
 Sites that act as metasearches of bootcamps.
