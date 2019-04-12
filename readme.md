@@ -167,7 +167,7 @@ This list aims to be a curated set of free high quality educational resources to
 - [Triplebyte](https://triplebyte.com/) - Engineering Quizes.
 - [Containet Tutorials](http://containertutorials.com/index.html) - Docker Container Tutorials.
 - [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - Tutorials about Algorithms.
-
+- [Programming books](https://www.programming-books.io/) - Free Programming Books
 
 ## Paid
 
