@@ -45,6 +45,7 @@ This list aims to be a curated set of free high quality educational resources to
 - [SQLZoo](http://sqlzoo.net/) - SQL Tutorials.
 - [Techire Delight](http://www.techiedelight.com/) - Learn Algorithms and Data Structures.
 - [Learn X in Y minites](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
+- [Scaler Topics](https://www.scaler.com/topics/) - Learn different programming languages through article amd tutorials.
 - [Become A Programmer MTF](http://programming-motherfucker.com/become.html#Git) - If you don't know how to code, then you can learn even if you think you can't.
 - [Git On Demand](https://services.github.com/on-demand/) - On demand training from github.
 - [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login) - Problems and Contests.
